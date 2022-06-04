@@ -1,4 +1,4 @@
-## [Demo](https://react-responsive-website-demo.netlify.app/](https://dapper-gumption-a8401b.netlify.app/]
+## [Demo](https://react-responsive-website-demo.netlify.app/](https://dapper-gumption-a8401b.netlify.app/)
 
 ##  Dependencies
 
